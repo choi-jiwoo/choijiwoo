@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/choijiwoo/static/css/main.eac17cf0.css",
-    "main.js": "/choijiwoo/static/js/main.c84704a4.js",
+    "main.css": "/choijiwoo/static/css/main.b979da91.css",
+    "main.js": "/choijiwoo/static/js/main.f1fa7c48.js",
     "static/js/787.0c58eea7.chunk.js": "/choijiwoo/static/js/787.0c58eea7.chunk.js",
     "static/media/home.png": "/choijiwoo/static/media/home.8b1296d9f48d9e3ce827.png",
     "static/media/plogging.png": "/choijiwoo/static/media/plogging.273916e42ed5f95dcd72.png",
@@ -15,16 +15,19 @@
     "static/media/stay.png": "/choijiwoo/static/media/stay.a8d21044b892a20db26a.png",
     "static/media/job.png": "/choijiwoo/static/media/job.ee1f449ecbd8388f4977.png",
     "static/media/keywords.png": "/choijiwoo/static/media/keywords.861c42a4b121faacf9bc.png",
-    "static/media/cv.pdf": "/choijiwoo/static/media/cv.cd88ddf265639be4cfeb.pdf",
+    "static/media/delete_stock.png": "/choijiwoo/static/media/delete_stock.2c3e2ecd00822f9aa0be.png",
+    "static/media/cv.pdf": "/choijiwoo/static/media/cv.030b4fa8da0a84c760c8.pdf",
+    "static/media/add_stock.png": "/choijiwoo/static/media/add_stock.a50cdbc7488862d26495.png",
+    "static/media/main.png": "/choijiwoo/static/media/main.bd3a914ae50c9fb2371b.png",
     "static/media/result.png": "/choijiwoo/static/media/result.60edd5b538b23af97473.png",
     "static/media/profile.jpg": "/choijiwoo/static/media/profile.e08978fa0f649c50e5f7.jpg",
     "index.html": "/choijiwoo/index.html",
-    "main.eac17cf0.css.map": "/choijiwoo/static/css/main.eac17cf0.css.map",
-    "main.c84704a4.js.map": "/choijiwoo/static/js/main.c84704a4.js.map",
+    "main.b979da91.css.map": "/choijiwoo/static/css/main.b979da91.css.map",
+    "main.f1fa7c48.js.map": "/choijiwoo/static/js/main.f1fa7c48.js.map",
     "787.0c58eea7.chunk.js.map": "/choijiwoo/static/js/787.0c58eea7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eac17cf0.css",
-    "static/js/main.c84704a4.js"
+    "static/css/main.b979da91.css",
+    "static/js/main.f1fa7c48.js"
   ]
 }
